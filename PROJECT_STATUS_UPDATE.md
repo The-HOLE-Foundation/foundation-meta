@@ -21,8 +21,8 @@
 **Status**: NOT COMPLETE - Potentially significant issues
 
 **Problems Identified**:
-- Statutory texts may be **significantly out of date**
-- Potential **flaws in current statute collection**
+-  Statutory texts may be **significantly out of date**
+-  Potential **flaws in current statute collection**
 - **Cannot trust accuracy** of existing transparency law texts
 - **Downstream data corruption risk** - deadlines/fees/procedures may be wrong
 
@@ -34,34 +34,34 @@
 ## 📋 **ACCURATE WORK REMAINING**
 
 ### **PHASE 1: STATUTE VALIDATION** (CRITICAL - UNBLOCKS ALL DOWNSTREAM)
-1. **Validate each of 51 statutes** for accuracy and currency
-2. **Check for recent/pending amendments** (2022-2025)
-3. **Update full statute text** with verified current versions
-4. **Validate ALL downstream information** against corrected statutes
-5. **Update deadlines, fees, procedures** affected by statute changes
+[] **Validate each of 51 statutes** for accuracy and currency
+[]  **Check for recent/pending amendments** (2022-2025) - Can use perplexity mcp server for this, but must be careful as in the past we have seen perplexity miss things. so be careful and intentional with your promptig and spot check results
+[] **Update full statute text** with verified current versions
+[] **Validate ALL downstream information** against corrected statutes
+[] **Update deadlines, fees, procedures** affected by statute changes
 
 ### **PHASE 2: OBSTRUCTION ANALYSIS** (BLOCKED until Phase 1 complete)
-1. Complete comprehensive analysis of obstruction mechanisms
-2. Identify statutory gaps and loopholes (using ACCURATE statutes)
-3. Document agency exploitation patterns
-4. Create counter-strategy frameworks
+[] Complete comprehensive analysis of obstruction mechanisms
+[] Identify statutory gaps and loopholes (using ACCURATE statutes)
+[]  Document agency exploitation patterns
+[]  Create counter-strategy frameworks
 
 ### **PHASE 3: GROUND TRUTH COMPLETION**
-1. Finalize validated transparency database
-2. Complete obstruction analysis integration
-3. Prepare for Supabase deployment
+[] Finalize validated transparency database
+[] Complete obstruction analysis integration
+[] Prepare for Supabase deployment
 
 ### **PHASE 4: DATABASE DEPLOYMENT**
-1. Supabase rollout with validated data
-2. Comprehensive testing of database integrity
-3. Backend integration testing
+[] Supabase rollout with validated data
+[]. Comprehensive testing of database integrity
+[] Backend integration testing
 
 ### **PHASE 5: BACKEND INTEGRATION**
-1. Plug validated database into transparency map backend
-2. Integrate with wiki backends
-3. Complete backend API development
+[] Plug validated database into transparency map backend
+[] Integrate with wiki backends
+[] Complete backend API development
 
-### **PHASE 6: FRONTEND DEVELOPMENT**
+### **PHASE 6: FRONTEND DEVELOPMENT** ( I will take care of this part)
 1. Complete theholetruth.org frontend
 2. Complete theholefoundation.org frontend
 3. Integrate frontends with validated backends
